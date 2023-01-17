@@ -16,7 +16,7 @@
 <details>
 <summary>Ultimate</summary>
 
-- [TOP][TOP]
-- [DSR][DSR]
-- [TEA][TEA]
+- [TOP](https://github.com/BasedXIV/links/blob/master/Ultimate/top.md)
+- [DSR](https://github.com/BasedXIV/links/blob/master/Ultimate/dsr.md)
+- [TEA](https://github.com/BasedXIV/links/blob/master/Ultimate/tea.md)
 </details>

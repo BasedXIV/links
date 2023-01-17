@@ -1,8 +1,22 @@
 # Based XIV Links
-### [Savage][Savage]
-### [Ultimate][Ultimate]
-### [Gearset][Gearset]
 
-[Savage]: https://github.com/BasedXIV/links/blob/master/Savage/index.md
-[Ultimate]: https://github.com/BasedXIV/links/blob/master/Ultimate/index.md
-[Gearset]: https://github.com/BasedXIV/links/blob/master/Gearset/index.md
+<details>
+<summary>**Savage**</summary>
+
+- [p8s][p8s]
+- [p7s][p7s]
+- [p6s][p6s]
+- [p5s][p5s]
+- [p4s][p4s]
+- [p3s][p3s]
+- [p2s][p2s]
+- [p1s][p1s]
+</details>
+
+<details>
+<summary>**Ultimate**</summary>
+
+- [TOP][TOP]
+- [DSR][DSR]
+- [TEA][TEA]
+</details>

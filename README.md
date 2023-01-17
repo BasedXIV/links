@@ -1,7 +1,7 @@
 # Based XIV Links
 
 <details>
-<summary>**Savage**</summary>
+<summary><b>Savage</b></summary>
 
 - [p8s][p8s]
 - [p7s][p7s]
@@ -14,7 +14,7 @@
 </details>
 
 <details>
-<summary>**Ultimate**</summary>
+<summary>Ultimate</summary>
 
 - [TOP][TOP]
 - [DSR][DSR]
